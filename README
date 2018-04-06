@@ -1,4 +1,5 @@
-This is the starter code for the WordStack workshop. 
+The idea of the game is to try to separate out two words of the same length whose letters have been scrambled 
+(but the order of the letters has been preserved).
 This workshop is part of the Applied CS with Android course:
 
 http://g.co/cswithandroid
